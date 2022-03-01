@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rudydesplan
+- 👋 Hi, I’m Rudy Desplan
 - 🌱 I’m currently learning data
 - 📫 How to reach me : 
 - linkedin : https://www.linkedin.com/in/rudy-d-6a5b58153/
