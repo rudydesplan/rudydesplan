@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rudyvandess
+- 👋 Hi, I’m @rudydesplan
 - 👀 I’m interested in data
 - 🌱 I’m currently learning data
 - 💞️ I’m looking to collaborate on data
