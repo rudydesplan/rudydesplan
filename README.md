@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rudy Desplan
 - 🌱 I’m currently learning about data
 - 📫 How to reach me : 
-- linkedin : https://www.linkedin.com/in/rudy-d-6a5b58153/
+- linkedin : https://www.linkedin.com/in/rudy-desplan
 - emails : desrudy@hotmail.com and desrudy@gmail.com
 
 <!---
